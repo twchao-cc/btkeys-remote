@@ -1,0 +1,4 @@
+# Normalise line endings; keep Windows scripts usable as-is.
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.apk binary

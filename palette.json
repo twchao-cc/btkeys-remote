@@ -1,0 +1,15 @@
+{
+  "dark": {
+    "bg": "#0E1014",
+    "surface": "#1A1E27",
+    "surfaceAlt": "#232833",
+    "text": "#EDF0F5",
+    "textDim": "#98A0B2",
+    "textFaint": "#8A93A6",
+    "primary": "#4C8DFF",
+    "gold": "#F0A93B",
+    "success": "#2FBF71",
+    "danger": "#F0655C",
+    "onAccent": "#0E1014"
+  }
+}
